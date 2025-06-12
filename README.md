@@ -1,4 +1,4 @@
-![MasterHead]([https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg))
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Md.Mahadi Hasan</h1>
 <h3 align="center">Passionate About Leveraging Artificial Intelligence To Solve Real World Problems.</h3>

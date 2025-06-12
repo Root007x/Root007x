@@ -1,6 +1,17 @@
-# 💫 About Me:
-Passionate About Leveraging Artificial Intelligence To Solve Real World Problems.
+<h1 align="center">Hi 👋, I'm Md.Mahadi Hasan</h1>
+<h3 align="center">Passionate About Leveraging Artificial Intelligence To Solve Real World Problems.</h3>
+<br><br> <!-- Add vertical space -->
+<img align = "right" alt="Coding" width="400" src = "https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=root007x&label=Profile%20views&color=0e75b6&style=flat" alt="root007x" /> </p>
+
+- 👨‍💻 All of my projects are available at [https://mahadi-portfolio.onrender.com/](https://mahadi-portfolio.onrender.com/)
+
+- 💬 Ask me about **Machine learning, Deep Learning, Generative AI**
+
+- ⚡ Fun fact **I'm drowning**
+
+<br><br> <!-- Add vertical space -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mahadi-hasann) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahadihasanpm@gmail.com) 

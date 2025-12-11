@@ -6,16 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=AI+%26+ML;Deep+Learning;Computer+Vision;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Engineer-667eea?style=for-the-badge&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-764ba2?style=for-the-badge&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-f093fb?style=for-the-badge&labelColor=1a1a1a"/>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="300">
 </div>

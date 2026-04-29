@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+LLM+%26+RAG+Architect;Fine-tuning+LLMs+with+LoRA+%2F+QLoRA+%2F+PEFT;Agentic+AI+%7C+LangChain+%7C+LangGraph+%7C+n8n;Computer+Vision+%7C+NLP+%7C+MLOps+%7C" alt="roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+LLM+%26+RAG+Architect;Fine-tuning+LLMs+with+LoRA+%2F+QLoRA+%2F+PEFT;Agentic+AI+%7C+LangChain+%7C+LangGraph+%7C+n8n;Computer+Vision+%7C+NLP+%7C+MLOps" alt="roles"/>
 
 <br/><br/>
 

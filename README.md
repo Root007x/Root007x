@@ -186,35 +186,3 @@ print(me)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Root007x&bg_color=0d1117&color=6EE7B7&line=34D399&point=6EE7B7&area=true&hide_border=true&area_color=6EE7B715&custom_title=Contribution%20Graph"/>
 
 </div>
-
-<br/>
-
----
-
-<br/>
-
-## `> achievements`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Root007x&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/mahadi-hasann"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:mahadihasanpm@gmail.com"><img src="https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://mahadi-hasan-sage-three.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:0d1117&height=100&section=footer"/>
-
-</div>

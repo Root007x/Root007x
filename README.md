@@ -48,14 +48,6 @@ class MahadiHasan:
             "MLOps            →  DVC · Airflow · CI/CD · Docker · AWS",
         ]
 
-    @property
-    def currently(self):
-        return {
-            "building"   : "Production agentic AI systems w/ LangGraph + n8n",
-            "researching": "Efficient LLM inference & quantization techniques",
-            "open_to"    : "Impactful collaborations & freelance AI projects",
-        }
-
     def __repr__(self):
         return "Engineer who ships — not just experiments."
 

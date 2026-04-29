@@ -1,11 +1,5 @@
 <div align="center">
-
-<a href="https://mahadi-hasan-sage-three.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=1&pause=999999&color=6EE7B7&center=true&vCenter=true&width=300&lines=%E2%96%B6+%20mahadi-hasan.vercel.app" alt="portfolio"/>
-</a>
-
-<br/><br/>
-
+  
 <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=700&size=46&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=700&lines=Md.+Mahadi+Hasan" alt="name"/>
 
 <br/>

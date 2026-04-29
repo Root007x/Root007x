@@ -1,11 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:0d1117&height=140&section=header&text=&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
 <a href="https://mahadi-hasan-sage-three.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=1&pause=999999&color=6EE7B7&center=true&vCenter=true&width=300&lines=%E2%96%B6+%20mahadi-hasan.vercel.app" alt="portfolio"/>
 </a>
@@ -218,21 +212,7 @@ print(me)
 <br/>
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║   "I don't just build models — I build systems that      ║
-║    think, adapt, and run in production."                 ║
-║                                    — Mahadi Hasan        ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-**Open to freelance · research collaboration · full-time roles**
-
-<br/>
-
+  
 <a href="https://www.linkedin.com/in/mahadi-hasann"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:mahadihasanpm@gmail.com"><img src="https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>

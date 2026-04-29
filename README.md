@@ -36,8 +36,6 @@ class MahadiHasan:
     def __init__(self):
         self.name       = "Md. Mahadi Hasan"
         self.role       = "AI / ML Engineer"
-        self.location   = "Bangladesh 🇧🇩"
-        self.spoken     = ["Bangla (Native)", "English"]
 
     @property
     def expertise(self):

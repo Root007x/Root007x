@@ -2,12 +2,6 @@
   
 <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=700&size=46&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=700&lines=Md.+Mahadi+Hasan" alt="name"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+LLM+%26+RAG+Architect;Fine-tuning+LLMs+with+LoRA+%2F+QLoRA+%2F+PEFT;Agentic+AI+%7C+LangChain+%7C+LangGraph+%7C+n8n;Computer+Vision+%7C+NLP+%7C+MLOps" alt="roles"/>
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/mahadi-hasann"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:mahadihasanpm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
